@@ -1,6 +1,6 @@
 ## **UNKEL-KP :alien:**
 Hey there! <br/>
-This is Pawan Kumar, a software engineer based in Hyderabad, India. 
+I'm a software engineer based in Hyderabad, India. 
 I'm currently working at [OYO](https://github.com/oyorooms)
 
 
@@ -21,7 +21,10 @@ I'm currently working at [OYO](https://github.com/oyorooms)
     * Web Crawling | Scrapy
     
 
-
+### Random Facts
+* I :heart: [twenty one pilots](https://www.youtube.com/channel/UCBQZwaNPFfJ1gZ1fLZpAEGw).
+* A part of me wants to be a UI/UX designer.
+* I involve in stock trading and investments.
 
 
 
