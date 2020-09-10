@@ -1,18 +1,44 @@
-## ***UNKEL-KP :alien:***
-Hey there! This is Pawan Kumar. I'm a software engineer based in Hyderabad, India.|
-<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif' alt = 'coder' width = "50%" height = "35%" align='right'/>
+## **UNKEL-KP :alien:**
+Hey there! <br/>
+This is Pawan Kumar, a software engineer based in Hyderabad, India. 
+I'm currently working at [OYO](https://github.com/oyorooms)
 
 
-<br/>
+<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif?raw=true' alt = 'coder' width = "50%" height = "30%" align='right'/>
+
+### SKILL SET
+1. ***DAY-TO-DAY Comfort*** :cake:
+    * HTML | CSS
+    * JavaScript | ReactJS
+    * Java | Spring Boot
+    * Git | PostgreSQL | MongoDB
+    * Music, Coffee & yelling at computer :headphones: :coffee: :innocent:
+1. ***Rusty*** :zzz:
+    * Python | C | C++
+    * Ruby on Rails
+1. ***SideKicks*** :trollface:
+    * AWS | Docker | Kubernetes
+    * Web Crawling | Scrapy
+    
+
+
+
+
+
+
+
+
+<details>
+  <summary>Some stats from GitHub :octocat:</summary>
+  <br/>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=unkel-kp&show_icons=true&theme=nord" alt="unkel-kp" />
+</details>
 <a href="https://twitter.com/unkel_kp">
-  <img align="left" alt="Connect on Twitter" width="22px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/twitter.svg" />
+  <img alt="Connect on Twitter" width="22px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/unkel-kp/">
-  <img align="left" alt="Connect on LinkedIn" width="22px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/linkedin.svg" />
+  <img alt="Connect on LinkedIn" width="22px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/unkel_kp/">
-  <img align="left" alt="Yeah! I've a life beyond tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Yeah! I've a life beyond tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=unkel-kp&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=unkel-kp&show_icons=true&theme=nord" alt="unkel-kp" />
-
