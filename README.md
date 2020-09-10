@@ -34,11 +34,11 @@ I'm currently working at [OYO](https://github.com/oyorooms)
 
 ### Contact Me
 <a align = "left" href="https://twitter.com/unkel_kp">
-  <img alt="Connect on Twitter" width="22px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/twitter.svg" />
+  <img alt="Connect on Twitter" width="25px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/twitter.svg" />
 </a>
 <a align = "left" href="https://www.linkedin.com/in/unkel-kp/">
-  <img alt="Connect on LinkedIn" width="22px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/linkedin.svg" />
+  <img alt="Connect on LinkedIn" width="25px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/linkedin.svg" />
 </a>
 <a align = "left" href="https://www.instagram.com/unkel_kp/">
-  <img  alt="Yeah! I've a life beyond tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Yeah! I've a life beyond tech" width="25px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/instagram.svg" />
 </a>
