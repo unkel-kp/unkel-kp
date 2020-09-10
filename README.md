@@ -1,11 +1,11 @@
 ## **UNKEL-KP :alien:**
 Hey there! <br/>
 I'm a software engineer based in Hyderabad, India. 
-I'm currently working at [OYO](https://github.com/oyorooms)
+I'm currently working at [OYO](https://github.com/oyorooms).
 <br />
 
 
-<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif?raw=true' alt = 'coder' width = "50%" height = "30%" align='right'/>
+<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif?raw=true' alt = 'coder' width = "55%" height = "35%" align='right'/>
 
 ### My Skill Set
 1. ***DAY-TO-DAY Comforts*** :cake:
