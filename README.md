@@ -5,7 +5,7 @@ I'm currently working at [OYO](https://github.com/oyorooms).
 <br />
 
 
-<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif?raw=true' alt = 'coder' width = "55%" height = "35%" align='right'/>
+<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif?raw=true' alt = 'coder' width = "55%" height = "30%" align='right'/>
 
 ### My Skill Set
 1. ***DAY-TO-DAY Comforts*** :cake:
