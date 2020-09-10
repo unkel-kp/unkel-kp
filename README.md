@@ -2,7 +2,7 @@
 
 
 
-<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif' alt = 'coder' width = "100%" height = "500" align='right'/>
+<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif' alt = 'coder' width = "75%" height = "500" align='right'/>
 
 <br/>
 <a href="https://twitter.com/unkel_kp">
