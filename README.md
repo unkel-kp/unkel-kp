@@ -2,6 +2,8 @@
 
 
 
+<img src = 'https://github.com/unkel-kp/unkel-kp/blob/master/resources/coder.gif' alt = 'Awesome Matrix Code' align='right'/>
+
 <a href="https://twitter.com/unkel_kp">
   <img align="left" alt="Connect on Twitter" width="22px" src="https://github.com/unkel-kp/unkel-kp/blob/master/resources/twitter.svg" />
 </a>
